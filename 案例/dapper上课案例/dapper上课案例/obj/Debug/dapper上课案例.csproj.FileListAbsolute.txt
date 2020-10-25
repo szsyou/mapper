@@ -1,0 +1,29 @@
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.exe.config
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.exe
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.pdb
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\Dapper.dll
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\MySql.Data.dll
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\Dapper.xml
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\bin\Debug\MySql.Data.xml
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.Form1.resources
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.Properties.Resources.resources
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.GenerateResource.cache
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.CoreCompileInputs.cache
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.CopyComplete
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.exe
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.pdb
+C:\Users\WCY_783\Documents\Visual Studio 2017\Projects\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csprojAssemblyReference.cache
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.exe.config
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.exe
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\dapper上课案例.pdb
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\Dapper.dll
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\Dapper.xml
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\bin\Debug\MySql.Data.xml
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csprojAssemblyReference.cache
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.Form1.resources
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.Properties.Resources.resources
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.GenerateResource.cache
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.CoreCompileInputs.cache
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.csproj.CopyComplete
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.exe
+E:\workplace\Dapper学习20201025\20203111752573_86991\案例\dapper上课案例\dapper上课案例\obj\Debug\dapper上课案例.pdb
